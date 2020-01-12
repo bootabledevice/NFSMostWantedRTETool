@@ -1,0 +1,15 @@
+C:\Users\Tim\source\repos\NFS_MW_RTE_Tool\NFS_MW_RTE_Tool\bin\Release\MetroFramework.Design.dll
+C:\Users\Tim\source\repos\NFS_MW_RTE_Tool\NFS_MW_RTE_Tool\bin\Release\MetroFramework.dll
+C:\Users\Tim\source\repos\NFS_MW_RTE_Tool\NFS_MW_RTE_Tool\bin\Release\MetroFramework.Fonts.dll
+C:\Users\Tim\source\repos\NFS_MW_RTE_Tool\NFS_MW_RTE_Tool\bin\Release\XRPC.dll
+C:\Users\Tim\source\repos\NFS_MW_RTE_Tool\NFS_MW_RTE_Tool\obj\Release\NFS_MW_RTE_Tool.Form1.resources
+C:\Users\Tim\source\repos\NFS_MW_RTE_Tool\NFS_MW_RTE_Tool\obj\Release\NFS_MW_RTE_Tool.Properties.Resources.resources
+C:\Users\Tim\source\repos\NFS_MW_RTE_Tool\NFS_MW_RTE_Tool\obj\Release\NFS_MW_RTE_Tool.csproj.GenerateResource.cache
+C:\Users\Tim\source\repos\NFS_MW_RTE_Tool\NFS_MW_RTE_Tool\obj\Release\NFS_MW_RTE_Tool.csproj.CoreCompileInputs.cache
+C:\Users\Tim\source\repos\NFS_MW_RTE_Tool\NFS_MW_RTE_Tool\obj\Release\NFS_MW_RTE_Tool.csproj.CopyComplete
+C:\Users\Tim\source\repos\NFS_MW_RTE_Tool\NFS_MW_RTE_Tool\obj\Release\NFS_MW_RTE_Tool.csprojAssemblyReference.cache
+C:\Users\Tim\source\repos\NFS_MW_RTE_Tool\NFS_MW_RTE_Tool\bin\Release\NFS Most Wanted Tool.exe.config
+C:\Users\Tim\source\repos\NFS_MW_RTE_Tool\NFS_MW_RTE_Tool\bin\Release\NFS Most Wanted Tool.exe
+C:\Users\Tim\source\repos\NFS_MW_RTE_Tool\NFS_MW_RTE_Tool\bin\Release\NFS Most Wanted Tool.pdb
+C:\Users\Tim\source\repos\NFS_MW_RTE_Tool\NFS_MW_RTE_Tool\obj\Release\NFS Most Wanted Tool.exe
+C:\Users\Tim\source\repos\NFS_MW_RTE_Tool\NFS_MW_RTE_Tool\obj\Release\NFS Most Wanted Tool.pdb
